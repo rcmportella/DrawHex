@@ -1,0 +1,20 @@
+d:\ricardo\documentos\visual studio 2017\Projects\DesenhaHEX\DesenhaHEX\bin\Debug\DesenhaHEX.exe.config
+d:\ricardo\documentos\visual studio 2017\Projects\DesenhaHEX\DesenhaHEX\bin\Debug\DesenhaHEX.exe
+d:\ricardo\documentos\visual studio 2017\Projects\DesenhaHEX\DesenhaHEX\bin\Debug\DesenhaHEX.pdb
+d:\ricardo\documentos\visual studio 2017\Projects\DesenhaHEX\DesenhaHEX\obj\Debug\DesenhaHEX.csprojResolveAssemblyReference.cache
+d:\ricardo\documentos\visual studio 2017\Projects\DesenhaHEX\DesenhaHEX\obj\Debug\DesenhaHEX.Form1.resources
+d:\ricardo\documentos\visual studio 2017\Projects\DesenhaHEX\DesenhaHEX\obj\Debug\DesenhaHEX.Properties.Resources.resources
+d:\ricardo\documentos\visual studio 2017\Projects\DesenhaHEX\DesenhaHEX\obj\Debug\DesenhaHEX.csproj.GenerateResource.Cache
+d:\ricardo\documentos\visual studio 2017\Projects\DesenhaHEX\DesenhaHEX\obj\Debug\DesenhaHEX.csproj.CoreCompileInputs.cache
+d:\ricardo\documentos\visual studio 2017\Projects\DesenhaHEX\DesenhaHEX\obj\Debug\DesenhaHEX.exe
+d:\ricardo\documentos\visual studio 2017\Projects\DesenhaHEX\DesenhaHEX\obj\Debug\DesenhaHEX.pdb
+Z:\Projetos\C#\DesenhaHEX\DesenhaHEX\obj\Debug\DesenhaHEX.csprojAssemblyReference.cache
+Z:\Projetos\C#\DesenhaHEX\DesenhaHEX\obj\Debug\DesenhaHEX.Form1.resources
+Z:\Projetos\C#\DesenhaHEX\DesenhaHEX\obj\Debug\DesenhaHEX.Properties.Resources.resources
+Z:\Projetos\C#\DesenhaHEX\DesenhaHEX\obj\Debug\DesenhaHEX.csproj.GenerateResource.cache
+Z:\Projetos\C#\DesenhaHEX\DesenhaHEX\obj\Debug\DesenhaHEX.csproj.CoreCompileInputs.cache
+Z:\Projetos\C#\DesenhaHEX\DesenhaHEX\obj\Debug\DesenhaHEX.exe
+Z:\Projetos\C#\DesenhaHEX\DesenhaHEX\obj\Debug\DesenhaHEX.pdb
+Z:\Projetos\C#\DesenhaHEX\DesenhaHEX\bin\Debug\DesenhaHEX.exe.config
+Z:\Projetos\C#\DesenhaHEX\DesenhaHEX\bin\Debug\DesenhaHEX.exe
+Z:\Projetos\C#\DesenhaHEX\DesenhaHEX\bin\Debug\DesenhaHEX.pdb
