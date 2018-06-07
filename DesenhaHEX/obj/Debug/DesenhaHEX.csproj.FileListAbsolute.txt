@@ -18,3 +18,13 @@ Z:\Projetos\C#\DesenhaHEX\DesenhaHEX\obj\Debug\DesenhaHEX.pdb
 Z:\Projetos\C#\DesenhaHEX\DesenhaHEX\bin\Debug\DesenhaHEX.exe.config
 Z:\Projetos\C#\DesenhaHEX\DesenhaHEX\bin\Debug\DesenhaHEX.exe
 Z:\Projetos\C#\DesenhaHEX\DesenhaHEX\bin\Debug\DesenhaHEX.pdb
+E:\rcmpo\Documents\Source\repos\DrawHex\DesenhaHEX\bin\Debug\DesenhaHEX.exe.config
+E:\rcmpo\Documents\Source\repos\DrawHex\DesenhaHEX\bin\Debug\DesenhaHEX.exe
+E:\rcmpo\Documents\Source\repos\DrawHex\DesenhaHEX\bin\Debug\DesenhaHEX.pdb
+E:\rcmpo\Documents\Source\repos\DrawHex\DesenhaHEX\obj\Debug\DesenhaHEX.csprojAssemblyReference.cache
+E:\rcmpo\Documents\Source\repos\DrawHex\DesenhaHEX\obj\Debug\DesenhaHEX.Form1.resources
+E:\rcmpo\Documents\Source\repos\DrawHex\DesenhaHEX\obj\Debug\DesenhaHEX.Properties.Resources.resources
+E:\rcmpo\Documents\Source\repos\DrawHex\DesenhaHEX\obj\Debug\DesenhaHEX.csproj.GenerateResource.cache
+E:\rcmpo\Documents\Source\repos\DrawHex\DesenhaHEX\obj\Debug\DesenhaHEX.csproj.CoreCompileInputs.cache
+E:\rcmpo\Documents\Source\repos\DrawHex\DesenhaHEX\obj\Debug\DesenhaHEX.exe
+E:\rcmpo\Documents\Source\repos\DrawHex\DesenhaHEX\obj\Debug\DesenhaHEX.pdb

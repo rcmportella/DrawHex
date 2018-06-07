@@ -21,41 +21,20 @@ namespace DesenhaHEX
         {
             Bitmap flag = new Bitmap(128, 111);
             Graphics flagGraphics = Graphics.FromImage(flag);
-            /*
-            int red = 0;
-            int white = 11;
-            while (white <= 100)
-            {
-                flagGraphics.FillRectangle(Brushes.Red, 0, red, 200, 10);
-                flagGraphics.FillRectangle(Brushes.White, 0, white, 200, 10);
-                red += 20;
-                white += 20;
-            }
-            */
+            // Create solid brush.
+            SolidBrush redBrush = new SolidBrush(Color.Red);
+
             flagGraphics.Clear(Color.Transparent);
-            Point pt1 = new Point(31, 0);
-            Point pt2 = new Point(95, 0);
-            flagGraphics.DrawLine(new Pen(Brushes.Red), pt1, pt2);
-            pt1 = pt2;
-            pt2.X = 127;
-            pt2.Y = 55;
-            flagGraphics.DrawLine(new Pen(Brushes.Red), pt1, pt2);
-            pt1 = pt2;
-            pt2.X = 95;
-            pt2.Y = 110;
-            flagGraphics.DrawLine(new Pen(Brushes.Red), pt1, pt2);
-            pt1 = pt2;
-            pt2.X = 31;
-            pt2.Y = 110;
-            flagGraphics.DrawLine(new Pen(Brushes.Red), pt1, pt2);
-            pt1 = pt2;
-            pt2.X = 0;
-            pt2.Y = 55;
-            flagGraphics.DrawLine(new Pen(Brushes.Red), pt1, pt2);
-            pt1 = pt2;
-            pt2.X = 31;
-            pt2.Y = 0;
-            flagGraphics.DrawLine(new Pen(Brushes.Red), pt1, pt2);
+            Point point1 = new Point(31, 0);
+            Point point2 = new Point(95, 0);
+            Point point3 = new Point(127, 55);
+            Point point4 = new Point(95, 110);
+            Point point5 = new Point(31, 110);
+            Point point6 = new Point(0, 55);
+            Point[] curvePoints = { point1, point2, point3, point4, point5, point6 };
+
+            // Draw polygon to screen.
+            flagGraphics.FillPolygon(redBrush, curvePoints);
             flag.Save("hexagon.png", System.Drawing.Imaging.ImageFormat.Png);
             pictureBox1.Image = flag;
         }
